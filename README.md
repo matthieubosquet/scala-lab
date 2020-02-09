@@ -1,1 +1,3 @@
-# scala-lab
+# Scala Lab
+
+Template for scala projects.
